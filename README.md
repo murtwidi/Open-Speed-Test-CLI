@@ -373,5 +373,5 @@ For other deployment options (bare Nginx, Helm, custom SSL, Let's Encrypt), see 
 
 ## License
 
-[MIT](LICENSE) — © 2025 ospeedtest contributors  
+[MIT](LICENSE) — © 2026 ospeedtest contributors  
 OpenSpeedTest™ is a separate project by [openspeedtest.com](https://openspeedtest.com); this CLI is an independent client.
